@@ -1,6 +1,6 @@
-let lampada = document.getElementById("lamp")
-let on = document.getElementById("on")
-let off = document.getElementById("off")
+const lampada = document.getElementById("lamp")
+const on = document.getElementById("on")
+const off = document.getElementById("off")
 
 
 function lampadaacesa(){
